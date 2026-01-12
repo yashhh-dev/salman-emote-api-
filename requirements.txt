@@ -2,3 +2,7 @@ psutil==7.2.1
 cfonts==1.5.2
 pycryptodome==3.23.0
 urllib3==2.6.3
+requests
+PyJWT
+pytz
+aiohttp
