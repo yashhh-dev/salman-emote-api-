@@ -1,13 +1,4 @@
-flask
-gunicorn
-requests
-protobuf
-protobuf-decoder
-aiohttp
-pyjwt
-pytz
-psutil
-cfonts
-pycryptodome
-urllib3
-python
+psutil==7.2.1
+cfonts==1.5.2
+pycryptodome==3.23.0
+urllib3==2.6.3
